@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Will Starnes
  */
 
 public class Class2 {
